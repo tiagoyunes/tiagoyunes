@@ -1,4 +1,11 @@
-### Hi there 👋
+### Oi, aqui é o Tiago 👋
+
+Formado em Engenharia Química, com Master em Química Verde e Sustentável, atualmente trabalho com a modelagem de um Digital Twin para gestão da integridade de dutos submarinos na indústria de petróleo. Além disso, estou realizando um curso de Desenvolvimento de Software pela Cubos Academy.
+
+Tecnologias dominadas: Python, JavaScript, VBA, Node.js, express, SQL, Git
+
+
+
 
 <!--
 **tiagoyunes/tiagoyunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
